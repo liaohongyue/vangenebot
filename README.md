@@ -6,21 +6,16 @@ VangeneBox 是由万基生物用于辅助客服回复的一款 windows 微信消
 
 ## 1. 安装
 
+[下载地址](https://github.com/liaohongyue/vangenebot/releases/latest)
+
 ### 1.1 特定版本的微信
 
 在下载页面下载提供的微信版本，安装即可。
-
-[点击下载](https://mirror.ghproxy.com/https://github.com/liaohongyue/vangenebot/releases/download/0.1.0/WeChatSetup-3.9.10.27.exe)
-
-下载地址: https://mirror.ghproxy.com/https://github.com/liaohongyue/vangenebot/releases/download/0.1.0/WeChatSetup-3.9.10.27.exe
 
 安装后，请在微信设置中，在“设置》通用设置》自动升级微信”中，取消选中，并在后期不手动更新。
 
 ### 1.2 安装 VangeneBox
 
-[点击下载](https://mirror.ghproxy.com/https://github.com/liaohongyue/vangenebot/releases/download/0.1.0/VangeneBot-V0.1.0_Windows.exe)
-
-下载地址：https://mirror.ghproxy.com/https://github.com/liaohongyue/vangenebot/releases/download/0.1.0/VangeneBot-V0.1.0_Windows.exe
 
 双击后按照普通软件安装流程即可。
 
